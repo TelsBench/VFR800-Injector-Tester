@@ -1,3 +1,9 @@
+
+// @copyright telsbench MIT license
+// https://youtu.be/YGfazHLdIow
+// see license
+
+
 #include <Arduino.h>
 #include <Encoder.h>
 #include <Wire.h>
